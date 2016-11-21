@@ -1,4 +1,4 @@
-# Sample Combineed sketch for temprature, LDR and Servomotor
+# Sample Combined sketch for temprature, LDR and Servomotor
 Note: Please manage memory carefully
 
     #include <UltraSonic.h>
