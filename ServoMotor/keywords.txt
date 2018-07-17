@@ -13,7 +13,7 @@ ServoMotor	KEYWORD1
 #######################################
 attach	KEYWORD2
 roate	KEYWORD2
-readCommandAndRotatre KEYWORD2
+readCommandAndRotatre	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
